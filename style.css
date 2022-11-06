@@ -36,7 +36,7 @@ iframe#tela{
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 267px;
     height: 471px;
 
 }
@@ -54,5 +54,5 @@ section#rds img{
 
 section#rds img:hover{
     border: 2px solid rgba(255, 255, 255, 0.603);
-    transition: transform .4s;
+    
 }
